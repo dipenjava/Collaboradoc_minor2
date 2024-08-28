@@ -1,8 +1,11 @@
 Collaboradoc: Real-Time Collaborative Document Editing Platform
+
 Overview
+
 Collaboradoc is an advanced real-time collaborative document editing platform built on a microservices architecture. It enables multiple users to edit shared documents simultaneously, with instant synchronization and robust version control. The platform is designed to enhance team productivity and creativity, suitable for businesses of all sizes.
 
 Key Features
+
 Real-Time Collaboration: Multiple users can edit the same document simultaneously, with changes reflected instantly using Socket.io.
 User-Friendly Interface: Integrated with Quill.js, providing a rich text editor that is easy to use.
 Microservices Architecture: Built on a microservices architecture, ensuring scalability, flexibility, and resilience.
